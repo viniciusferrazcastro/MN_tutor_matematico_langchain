@@ -63,8 +63,6 @@ Enter your question: Solve the equation 2x + 3 = 7
 ### Saída:
 
 ```sh
-Question Valid question! Sending to the Virtual Professor...
-
 Virtual Professors Response:
 Question: Solve the equation 2x + 3 = 7
 Response:

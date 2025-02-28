@@ -18,7 +18,7 @@ Antes de executar o projeto, certifique-se de ter instalado os seguintes requisi
 1. Clone este repositório:
 
    ```sh
-   git clone https://github.com/viniciusferrazcastro/tutor-matematico-langchain.git
+   git clone https://github.com/viniciusferrazcastro/MN_tutor_matematico_langchain.git
    cd seu-repositorio
    ```
 
